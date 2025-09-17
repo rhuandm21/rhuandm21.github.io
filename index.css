@@ -1,0 +1,51 @@
+
+.phonk {
+ background-image: url('imagensfundo/phonk.jpg');
+ background-position: center;
+ height: 100%;
+}
+.techno{
+    background-image: url('imagensfundo/techno.jpg');
+    background-position: center;
+    height: 800px;
+}
+.eletronica{
+    background-image: url('imagensfundo/eletronica.jpg');
+    background-position: center;
+    height: 800px;
+}
+.rock{
+    background-image: url('imagensfundo/rock.jpg');
+    background-position: center;
+    height: 800px;
+}
+.rap{
+    background-image: url('imagensfundo/rap.jpg');
+    background-position: center;
+    height: 800px;
+}
+.hiphop{
+    background-image: url('imagensfundo/hiphop.jpg');
+    background-position: center;
+    height: 800px;
+}
+.blues{
+    background-image: url('imagensfundo/blues.jpg');
+    background-position: center;
+    height: 800px;
+}
+.country{
+    background-image: url('imagensfundo/country.jpg');
+    background-position: center;
+    height: 800px;
+}
+.jazz{
+    background-image: url('imagensfundo/jazz.jpg');
+    background-position: center;
+    height: 800px;
+}
+.forro{
+    background-image: url('imagensfundo/fórro.jpg');
+    background-position: center;
+    height: 800px;
+}
